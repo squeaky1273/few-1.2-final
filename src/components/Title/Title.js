@@ -5,7 +5,7 @@ function Title() {
     return (
         <div className="Title">
             <header>
-                <h1>Gen 1 Pokédex</h1>
+                <h1>GEN 1 <br /> Pokédex</h1>
             </header>
         </div>
     )
