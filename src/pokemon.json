@@ -1,0 +1,2499 @@
+[
+    {
+        "ID": 1,
+        "name": "Bulbasaur",
+        "number": 1,
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Ice",
+            "Psychic",
+            "Flying"
+        ],
+        "images":[
+          "bulbasaur.jpg"
+       ]
+    },
+    {
+        "ID": 2,
+        "name": "Ivysaur",
+        "number": 2,
+        "type": [
+            "Grass", 
+            "Poison"
+        ],
+        "weakness": [
+            "Fire", 
+            "Ice", 
+            "Psychic", 
+            "Flying"
+        ],
+        "images":[
+          "ivysaur.jpg"
+       ]
+    },
+    {
+        "ID": 3,
+        "name": "Venusaur",
+        "number": 3,
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Ice",
+            "Psychic",
+            "Flying"
+        ],
+        "images":[
+          "venusaur.jpg"
+       ]
+    },
+    {
+        "ID": 4,
+        "name": "Charmander",
+        "number": 4,
+        "type": [
+            "Fire"
+        ],
+        "weakness": [
+            "Water", 
+            "Ground",
+            "Rock"
+        ],
+        "images":[
+          "charmander.jpg"
+       ]
+    },
+    {
+        "ID": 5,
+        "name": "Charmeleon",
+        "number": 5,
+        "type": [
+            "Fire"
+        ],
+        "weakness": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "images":[
+          "charmeleon.jpg"
+       ]
+    },
+    {
+        "ID": 6,
+        "name": "Charizard",
+        "number": 6,
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "weakness": [
+            "Water",
+            "Electric",
+            "Rock"
+        ],
+        "images":[
+          "charizard.jpg"
+       ]
+    },
+    {
+        "ID": 7,
+        "name":"Squirtle",
+        "number": 7,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "squirtle.jpg"
+       ]
+    },
+    {
+        "ID": 8,
+        "name": "Wartortle",
+        "number": 8,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass", 
+            "Electric"
+        ],
+        "images":[
+          "wartortle.jpg"
+       ]
+    },
+    {
+        "ID": 9,
+        "name": "Blastoise",
+        "number": 9,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass", 
+            "Electric"
+        ],
+        "images":[
+          "blastoise.jpg"
+       ]
+    },
+    {
+        "ID": 10,
+        "name": "Caterpie",
+        "number": 10,
+        "type": [
+            "Bug"
+        ],
+        "weakness": [
+            "Fire", 
+            "Flying", 
+            "Rock"
+        ],
+        "images":[
+          "caterpie.jpg"
+       ]
+    },
+    {
+        "ID": 11,
+        "name": "Metapod",
+        "number": 11,
+        "type": [
+            "Bug"
+        ],
+        "weakness": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ],
+        "images":[
+          "metapod.jpg"
+       ]
+    },
+    {
+        "ID": 12,
+        "name": "Butterfree",
+        "number": 12,
+        "type": [
+            "Bug",
+            "flying"
+        ],
+        "weakness": [
+            "Fire",
+            "Flying",
+            "Ice",
+            "Electric",
+            "Rock"
+        ],
+        "images":[
+          "butterfree.jpg"
+       ]
+    },
+    {
+        "ID": 13,
+        "name": "Weedle",
+        "number": 13,
+        "type": [
+            "Bug", 
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Flying",
+            "Psychic",
+            "Rock"
+        ],
+        "images": [
+          "weedle.jpg"
+       ]
+    },
+    {
+        "ID": 14,
+        "name": "Kakuna",
+        "number": 14,
+        "type": [
+            "Bug", 
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Flying",
+            "Psychic",
+            "Rock"
+        ],
+        "images": [
+          "kakuna.jpg"
+       ]
+    },
+    {
+        "ID": 15,
+        "name": "Beedrill",
+        "number": 15,
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Rock"
+        ],
+        "images":[
+          "beedrill.jpg"
+       ]
+    },
+    {
+        "ID": 16,
+        "name": "Pidgey",
+        "number": 16,
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weakness": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "pidgey.jpg"
+       ]
+    },
+    {
+        "ID": 17,
+        "name": "Pidgeotto",
+        "number": 17,
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weakness": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "pidgeotto.jpg"
+       ]
+    },
+    {
+        "ID": 18,
+        "name": "Pidgeot",
+        "number": 18,
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weakness": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "pidgeot.jpg"
+       ]
+    },
+    {
+        "ID": 19,
+        "name": "Rattata",
+        "number": 19,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images":[
+          "rattata.jpg"
+       ]
+    },
+    {
+        "ID": 20,
+        "name": "Raticate",
+        "number": 20,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images":[
+          "raticate.jpg"
+       ]
+    },
+    {
+        "ID": 21,
+        "name": "Spearow",
+        "number": 21,
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weakness": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "spearow.jpg"
+       ]
+    },
+    {
+        "ID": 22,
+        "name": "Fearow",
+        "number": 22,
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weakness": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "fearow.jpg"
+       ]
+    },
+    {
+        "ID": 23,
+        "name": "Ekans",
+        "number": 23,
+        "type": [
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "ekans.jpg"
+       ]
+    },
+    {
+        "ID": 24,
+        "name": "Arbok",
+        "number": 24,
+        "type": [
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "arbok.jpg"
+       ]
+    },
+    {
+        "ID": 25,
+        "name": "Pikachu",
+        "number": 25,
+        "type": [
+            "Electric"
+        ],
+        "weakness": [
+            "Ground"
+        ],
+        "images":[
+          "pikachu.jpg"
+       ]
+    },
+    {
+        "ID": 26,
+        "name": "Raichu",
+        "number": 26,
+        "type": [
+            "Electric"
+        ],
+        "weakness": [
+            "Ground"
+        ],
+        "images":[
+          "raichu.jpg"
+       ]
+    },
+    {
+        "ID": 27,
+        "name": "Sandshrew",
+        "number": 27,
+        "type": [
+            "Ground"
+        ],
+        "weakness": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "images":[
+          "sandshrew.jpg"
+       ]
+    },
+    {
+        "ID": 28,
+        "name": "Sandslash",
+        "number": 28,
+        "type": [
+            "Ground"
+        ],
+        "weakness": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "images":[
+          "sandslash.jpg"
+       ]
+    },
+    {
+        "ID": 29,
+        "name": "Nidoran ♀",
+        "number": 29,
+        "type": [
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "nidoran_f.jpg"
+       ]
+    },
+    {
+        "ID": 30,
+        "name": "Nidorina",
+        "number": 30,
+        "type": [
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "nidorina.jpg"
+       ]
+    },
+    {
+        "ID": 31,
+        "name": "Nidoqueen",
+        "number": 31,
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "weakness": [
+            "Water",
+            "Psychic",
+            "Ice",
+            "Ground"
+        ],
+        "images":[
+          "nidoqueen.jpg"
+       ]
+    },
+    {
+        "ID": 32,
+        "name": "Nidoran ♂",
+        "number": 32,
+        "type": [
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "nidoran_m.jpg"
+       ]
+    },
+    {
+        "ID": 33,
+        "name": "Nidorino",
+        "number": 33,
+        "type": [
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "nidorino.jpg"
+       ]
+    },
+    {
+        "ID": 34,
+        "name": "Nidoking",
+        "number": 34,
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "weakness": [
+            "Water",
+            "Psychic",
+            "Ice",
+            "Ground"
+        ],
+        "images":[
+          "nidoking.jpg"
+       ]
+    },
+    {
+        "ID": 35,
+        "name": "Clefairy",
+        "number": 35,
+        "type": [
+            "Fairy"
+        ],
+        "weakness": [
+            "Steel",
+            "Poison"
+        ],
+        "images":[
+          "clefairy.jpg"
+       ]
+    },
+    {
+        "ID": 36,
+        "name": "Clefable",
+        "number": 36,
+        "type": [
+            "Fairy"
+        ],
+        "weakness": [
+            "Steel",
+            "Poison"
+        ],
+        "images":[
+          "clefable.jpg"
+       ]
+    },
+    {
+        "ID": 37,
+        "name": "Vulpix",
+        "number": 37,
+        "type": [
+            "Fire"
+        ],
+        "weakness": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "images":[
+          "vulpix.jpg"
+       ]
+    },
+    {
+        "ID": 38,
+        "name": "Ninetales",
+        "number": 38,
+        "type": [
+            "Fire"
+        ],
+        "weakness": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "images":[
+          "ninetales.jpg"
+       ]
+    },
+    {
+        "ID": 39,
+        "name": "Jigglypuff",
+        "number": 39,
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "weakness": [
+            "Steel",
+            "Poison"
+        ],
+        "images":[
+          "jigglypuff.jpg"
+       ]
+    },
+    {
+        "ID": 40,
+        "name": "Wigglytuff",
+        "number": 40,
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "weakness": [
+            "Steel",
+            "Poison"
+        ],
+        "images":[
+          "wigglytuff.jpg"
+       ]
+    },
+    {
+        "ID": 41,
+        "name": "Zubat",
+        "number": 41,
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "weakness": [
+            "Psychic",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "zubat.jpg"
+       ]
+    },
+    {
+        "ID": 42,
+        "name": "Golbat",
+        "number": 42,
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "weakness": [
+            "Psychic",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "golbat.jpg"
+       ]
+    },
+    {
+        "ID": 43,
+        "name": "Oddish",
+        "number": 43,
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Psychic",
+            "Electric",
+            "Flying",
+            "Ice"
+        ],
+        "images":[
+          "oddish.jpg"
+       ]
+    },
+    {
+        "ID": 44,
+        "name": "Gloom",
+        "number": 44,
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Psychic",
+            "Electric",
+            "Flying",
+            "Ice"
+        ],
+        "images":[
+          "gloom.jpg"
+       ]
+    },
+    {
+        "ID": 45,
+        "name": "Vileplume",
+        "number": 45,
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Psychic",
+            "Electric",
+            "Flying",
+            "Ice"
+        ],
+        "images":[
+          "vileplume.jpg"
+       ]
+    },
+    {
+        "ID": 46,
+        "name": "Paras",
+        "number": 46,
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "weakness": [
+            "Fire",
+            "Flying",
+            "Ice",
+            "Poison",
+            "Rock",
+            "Bug"
+        ],
+        "images":[
+          "paras.jpg"
+       ]
+    },
+    {
+        "ID": 47,
+        "name": "Parasect",
+        "number": 47,
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "weakness": [
+            "Fire",
+            "Flying",
+            "Ice",
+            "Poison",
+            "Rock",
+            "Bug"
+        ],
+        "images":[
+          "parasect.jpg"
+       ]
+    },
+    {
+        "ID": 48,
+        "name": "Venonat",
+        "number": 48,
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Rock"
+        ],
+        "images":[
+          "venonat.jpg"
+       ]
+    },
+    {
+        "ID": 49,
+        "name": "Venomoth",
+        "number": 49,
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Rock"
+        ],
+        "images":[
+          "venomoth.jpg"
+       ]
+    },
+    {
+        "ID": 50,
+        "name": "Diglett",
+        "number": 50,
+        "type": [
+            "Ground"
+        ],
+        "weakness": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "images":[
+          "diglett.jpg"
+       ]
+    },
+    {
+        "ID": 51,
+        "name": "Dugtrio",
+        "number": 51,
+        "type": [
+            "Ground"
+        ],
+        "weakness": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "images":[
+          "dugtrio.jpg"
+       ]
+    },
+    {
+        "ID": 52,
+        "name": "Meowth",
+        "number": 52,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images":[
+          "meowth.jpg"
+       ]
+    },
+    {
+        "ID": 53,
+        "name": "Persian",
+        "number": 53,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images": [
+          "persian.jpg"
+       ]
+    },
+    {
+        "ID": 54,
+        "name": "Psyduck",
+        "number": 54,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images": [
+          "psyduck.jpg"
+       ]
+    },
+    {
+        "ID": 55,
+        "name": "Golduck",
+        "number": 55,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "golduck.jpg"
+       ]
+    },
+    {
+        "ID": 56,
+        "name": "Mankey",
+        "number": 56,
+        "type": [
+            "Fighting"
+        ],
+        "weakness": [
+            "Psychic",
+            "Flying",
+            "Fairy"
+        ],
+        "images":[
+          "mankey.jpg"
+       ]
+    },
+    {
+        "ID": 57,
+        "name": "Primeape",
+        "number": 57,
+        "type": [
+            "Fighting"
+        ],
+        "weakness": [
+            "Psychic",
+            "Flying",
+            "Fairy"
+        ],
+        "images":[
+          "primeape.jpg"
+       ]
+    },
+    {
+        "ID": 58,
+        "name": "Growlithe",
+        "number": 58,
+        "type": [
+            "Fire"
+        ],
+        "weakness": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "images":[
+          "growlithe.jpg"
+       ]
+    },
+    {
+        "ID": 59,
+        "name": "Arcanine",
+        "number": 59,
+        "type": [
+            "Fire"
+        ],
+        "weakness": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "images":[
+          "arcanine.jpg"
+       ]
+    },
+    {
+        "ID": 60,
+        "name": "Poliwag",
+        "number": 60,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "poliwag.jpg"
+       ]
+    },
+    {
+        "ID": 61,
+        "name": "Poliwhirl",
+        "number": 61,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "poliwhirl.jpg"
+       ]
+    },
+    {
+        "ID": 62,
+        "name": "Poliwrath",
+        "number": 62,
+        "type": [
+            "Water",
+            "Fighting"
+        ],
+        "weakness": [
+            "Fairy",
+            "Grass",
+            "Flying",
+            "Psychic",
+            "Electric"
+        ],
+        "images":[
+          "poliwrath.jpg"
+       ]
+    },
+    {
+        "ID": 63,
+        "name": "Abra",
+        "number": 63,
+        "type": [
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Bug"
+        ],
+        "images":[
+          "abra.jpg"
+       ]
+    },
+    {
+        "ID": 64,
+        "name": "Kadabra",
+        "number": 64,
+        "type": [
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Bug"
+        ],
+        "images":[
+          "kadabra.jpg"
+       ]
+    },
+    {
+        "ID": 65,
+        "name": "Alakazam",
+        "number": 65,
+        "type": [
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Bug"
+        ],
+        "images":[
+          "alakazam.jpg"
+       ]
+    },
+    {
+        "ID": 66,
+        "name": "Machop",
+        "number": 66,
+        "type": [
+            "Fighting"
+        ],
+        "weakness": [
+            "Psychic",
+            "Flying",
+            "Fairy"
+        ],
+        "images":[
+          "machop.jpg"
+       ]
+    },
+    {
+        "ID": 67,
+        "name": "Machoke",
+        "number": 67,
+        "type": [
+            "Fighting"
+        ],
+        "weakness": [
+            "Psychic",
+            "Flying",
+            "Fairy"
+        ],
+        "images":[
+          "machoke.jpg"
+       ]
+    },
+    {
+        "ID": 68,
+        "name": "Machamp",
+        "number": 68,
+        "type": [
+            "Fighting"
+        ],
+        "weakness": [
+            "Psychic",
+            "Flying",
+            "Fairy"
+        ],
+        "images":[
+          "machamp.jpg"
+       ]
+    },
+    {
+        "ID": 69,
+        "name": "Bellsprout",
+        "number": 69,
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Ice"
+        ],
+        "images":[
+          "bellsprout.jpg"
+       ]
+    },
+    {
+        "ID": 70,
+        "name": "Weepinbell",
+        "number": 70,
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Ice"
+        ],
+        "images":[
+          "weepinbell.jpg"
+       ]
+    },
+    {
+        "ID": 71,
+        "name": "Victreebel",
+        "number": 71,
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weakness": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Ice"
+        ],
+        "images":[
+          "victreebel.jpg"
+       ]
+    },
+    {
+        "ID": 72,
+        "name": "Tentacool",
+        "number": 72,
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Electric",
+            "Ground"
+        ],
+        "images":[
+          "tentacool.jpg"
+       ]
+    },
+    {
+        "ID": 73,
+        "name": "Tentacruel",
+        "number": 73,
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Electric",
+            "Ground"
+        ],
+        "images":[
+          "tentacruel.jpg"
+       ]
+    },
+    {
+        "ID": 74,
+        "name": "Geodude",
+        "number": 74,
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "weakness": [
+            "Steel",
+            "Fighting",
+            "Water",
+            "Ice",
+            "Grass",
+            "Ground"
+        ],
+        "images":[
+          "geodude.jpg"
+       ]
+    },
+    {
+        "ID": 75,
+        "name": "Graveler",
+        "number": 75,
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "weakness": [
+            "Steel",
+            "Fighting",
+            "Water",
+            "Ice",
+            "Grass",
+            "Ground"
+        ],
+        "images":[
+          "graveler.jpg"
+       ]
+    },
+    {
+        "ID": 76,
+        "name": "Golem",
+        "number": 76,
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "weakness": [
+            "Steel",
+            "Fighting",
+            "Water",
+            "Ice",
+            "Grass",
+            "Ground"
+        ],
+        "images":[
+          "golem.jpg"
+       ]
+    },
+    {
+        "ID": 77,
+        "name": "Ponyta",
+        "number": 77,
+        "type": [
+            "Fire"
+        ],
+        "weakness": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "images":[
+          "ponyta.jpg"
+       ]
+    },
+    {
+        "ID": 78,
+        "name": "Rapidash",
+        "number": 78,
+        "type": [
+            "Fire"
+        ],
+        "weakness": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "images":[
+          "rapidash.jpg"
+       ]
+    },
+    {
+        "ID": 79,
+        "name": "Slowpoke",
+        "number": 79,
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Grass",
+            "Electric",
+            "Bug"
+        ],
+        "images":[
+          "slowpoke.jpg"
+       ]
+    },
+    {
+        "ID": 80,
+        "name": "Slowbro",
+        "number": 80,
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Grass",
+            "Electric",
+            "Bug"
+        ],
+        "images":[
+          "slowbro.jpg"
+       ]
+    },
+    {
+        "ID": 81,
+        "name": "Magnemite",
+        "number": 81,
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "weakness": [
+            "Fire",
+            "Fighting",
+            "Ground"
+        ],
+        "images":[
+          "magnemite.jpg"
+       ]
+    },
+    {
+        "ID": 82,
+        "name": "Magneton",
+        "number": 82,
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "weakness": [
+            "Fire",
+            "Fighting",
+            "Ground"
+        ],
+        "images":[
+          "magneton.jpg"
+       ]
+    },
+    {
+        "ID": 83,
+        "name": "Farfetch'd",
+        "number": 83,
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weakness": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "farfetch'd.jpg"
+       ]
+    },
+    {
+        "ID": 84,
+        "name": "Doduo",
+        "number": 84,
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weakness": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "doduo.jpg"
+       ]
+    },
+    {
+        "ID": 85,
+        "name": "Dodrio",
+        "number": 85,
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weakness": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "dodrio.jpg"
+       ]
+    },
+    {
+        "ID": 86,
+        "name": "Seel",
+        "number": 86,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "seel.jpg"
+       ]
+    },
+    {
+        "ID": 87,
+        "name": "Dewgong",
+        "number": 87,
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric",
+            "Fighting",
+            "Rock"
+        ],
+        "images":[
+          "dewgong.jpg"
+       ]
+    },
+    {
+        "ID": 88,
+        "name": "Grimer",
+        "number": 88,
+        "type": [
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "grimer.jpg"
+       ]
+    },
+    {
+        "ID": 89,
+        "name": "Muk",
+        "number": 89,
+        "type": [
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "muk.jpg"
+       ]
+    },
+    {
+        "ID": 90,
+        "name": "Shellder",
+        "number": 90,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "shellder.jpg"
+       ]
+    },
+    {
+        "ID": 91,
+        "name": "Cloyster",
+        "number": 91,
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric",
+            "Fighting",
+            "Rock"
+        ],
+        "images":[
+          "cloyster.jpg"
+       ]
+    },
+    {
+        "ID": 92,
+        "name": "Ghastly",
+        "number": 92,
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "ghastly.jpg"
+       ]
+    },
+    {
+        "ID": 93,
+        "name": "Haunter",
+        "number": 93,
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "haunter.jpg"
+       ]
+    },
+    {
+        "ID": 94,
+        "name": "Gengar",
+        "number": 94,
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "gengar.jpg"
+       ]
+    },
+    {
+        "ID": 95,
+        "name": "Onix",
+        "number": 95,
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "weakness": [
+            "Steel",
+            "Fighting",
+            "Water",
+            "Ice",
+            "Grass",
+            "Ground"
+        ],
+        "images":[
+          "onix.jpg"
+       ]
+    },
+    {
+        "ID": 96,
+        "name": "Drowzee",
+        "number": 96,
+        "type": [
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Bug"
+        ],
+        "images":[
+          "drowzee.jpg"
+       ]
+    },
+    {
+        "ID": 97,
+        "name": "Hypno",
+        "number": 97,
+        "type": [
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Bug"
+        ],
+        "images":[
+          "hypno.jpg"
+       ]
+    },
+    {
+        "ID": 98,
+        "name": "Krabby",
+        "number": 98,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "krabby.jpg"
+       ]
+    },
+    {
+        "ID": 99,
+        "name": "Kingler",
+        "number": 99,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "kingler.jpg"
+       ]
+    },
+    {
+        "ID": 100,
+        "name": "Voltorb",
+        "number": 100,
+        "type": [
+            "Electric"
+        ],
+        "weakness": [
+            "Ground"
+        ],
+        "images":[
+          "voltorb.jpg"
+       ]
+    },
+    {
+        "ID": 101,
+        "name": "Electrode",
+        "number": 101,
+        "type": [
+            "Electric"
+        ],
+        "weakness": [
+            "Ground"
+        ],
+        "images":[
+          "electrode.jpg"
+       ]
+    },
+    {
+        "ID": 102,
+        "name": "Exeggcute",
+        "number": 102,
+        "type": [
+            "Grass", 
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Fire",
+            "Flying",
+            "Ice",
+            "Dark",
+            "Poison",
+            "Bug"
+        ],
+        "images":[
+          "exeggcute.jpg"
+       ]
+    },
+    {
+        "ID": 103,
+        "name": "Exeggutor",
+        "number": 103,
+        "type": [
+            "Grass",
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Fire",
+            "Flying",
+            "Ice",
+            "Dark",
+            "Poison",
+            "Bug"
+        ],
+        "images":[
+          "exeggutor.jpg"
+       ]
+    },
+    {
+        "ID": 104,
+        "name": "Cubone",
+        "number": 104,
+        "type": [
+            "Ground"
+        ],
+        "weakness": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "images":[
+          "cubone.jpg"
+       ]
+    },
+    {
+        "ID": 105,
+        "name": "Marowak",
+        "number": 105,
+        "type": [
+            "Ground"
+        ],
+        "weakness": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "images":[
+          "marowak.jpg"
+       ]
+    },
+    {
+        "ID": 106,
+        "name": "Hitmonlee",
+        "number": 106,
+        "type": [
+            "Fighting"
+        ],
+        "weakness": [
+            "Psychic",
+            "Flying",
+            "Fairy"
+        ],
+        "images":[
+          "hitmonlee.jpg"
+       ]
+    },
+    {
+        "ID": 107,
+        "name": "Hitmonchan",
+        "number": 107,
+        "type": [
+            "Fighting"
+        ],
+        "weakness": [
+            "Psychic",
+            "Flying",
+            "Fairy"
+        ],
+        "images":[
+          "hitmonchan.jpg"
+       ]
+    },
+    {
+        "ID": 108,
+        "name": "Lickitung",
+        "number": 108,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images":[
+          "lickitung.jpg"
+       ]
+    },
+    {
+        "ID": 109,
+        "name": "Koffing",
+        "number": 109,
+        "type": [
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "koffing.jpg"
+       ]
+    },
+    {
+        "ID": 110,
+        "name": "Weezing",
+        "number": 110,
+        "type": [
+            "Poison"
+        ],
+        "weakness": [
+            "Psychic",
+            "Ground"
+        ],
+        "images":[
+          "weezing.jpg"
+       ]
+    },
+    {
+        "ID": 111,
+        "name": "Rhyhorn",
+        "number": 111,
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "weakness": [
+            "Steel",
+            "Ice",
+            "Water",
+            "Fighting",
+            "Grass",
+            "Ground"
+        ],
+        "images":[
+          "rhyhorn.jpg"
+       ]
+    },
+    {
+        "ID": 112,
+        "name": "Rhydon",
+        "number": 112,
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "weakness": [
+            "Steel",
+            "Ice",
+            "Water",
+            "Fighting",
+            "Grass",
+            "Ground"
+        ],
+        "images":[
+          "rhydon.jpg"
+       ]
+    },
+    {
+        "ID": 113,
+        "name": "Chansey",
+        "number": 113,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images": [
+          "chansey.jpg"
+       ]
+    },
+    {
+        "ID": 114,
+        "name": "Tangela",
+        "number": 114,
+        "type": [
+            "Grass"
+        ],
+        "weakness": [
+            "Fire",
+            "Flying",
+            "Ice",
+            "Poison",
+            "Bug"
+        ],
+        "images": [
+          "tangela.jpg"
+       ]
+    },
+    {
+        "ID": 115,
+        "name": "Kangaskhan",
+        "number": 115,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images":[
+          "kangaskhan.jpg"
+       ]
+    },
+    {
+        "ID": 116,
+        "name": "Horsea",
+        "number": 116,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "horsea.jpg"
+       ]
+    },
+    {
+        "ID": 117,
+        "name": "Seadra",
+        "number": 117,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "seadra.jpg"
+       ]
+    },
+    {
+        "ID": 118,
+        "name": "Goldeen",
+        "number": 118,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "goldeen.jpg"
+       ]
+    },
+    {
+        "ID": 119,
+        "name": "Seaking",
+        "number": 119,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "seaking.jpg"
+       ]
+    },
+    {
+        "ID": 120,
+        "name": "Staryu",
+        "number": 120,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "staryu.jpg"
+       ]
+    },
+    {
+        "ID": 121,
+        "name": "Starmie",
+        "number": 121,
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Grass",
+            "Electric",
+            "Bug"
+        ],
+        "images":[
+          "starmie.jpg"
+       ]
+    },
+    {
+        "ID": 122,
+        "name": "Mr. Mime",
+        "number": 122,
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "weakness": [
+            "Ghost",
+            "Steel",
+            "Poison"
+        ],
+        "images":[
+          "mr_mime.jpg"
+       ]
+    },
+    {
+        "ID": 123,
+        "name": "Scyther",
+        "number": 123,
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "weakness": [
+            "Fire",
+            "Flying",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "scyther.jpg"
+       ]
+    },
+    {
+        "ID": 124,
+        "name": "Jynx",
+        "number": 124,
+        "type": [
+            "Ice",
+            "Psychic"
+        ],
+        "weakness": [
+            "Fire",
+            "Ghost",
+            "Bug",
+            "Steel",
+            "Rock",
+            "Dark"
+        ],
+        "images":[
+          "jynx.jpg"
+       ]
+    },
+    {
+        "ID": 125,
+        "name": "Electabuzz",
+        "number": 125,
+        "type": [
+            "Electric"
+        ],
+        "weakness": [
+            "Ground"
+        ],
+        "images":[
+          "electabuzz.jpg"
+       ]
+    },
+    {
+        "ID": 126,
+        "name": "Magmar",
+        "number": 126,
+        "type": [
+            "Fire"
+        ],
+        "weakness": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "images":[
+          "magmar.jpg"
+       ]
+    },
+    {
+        "ID": 127,
+        "name": "Pinsar",
+        "number": 127,
+        "type": [
+            "Bug"
+        ],
+        "weakness": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ],
+        "images":[
+          "pinsar.jpg"
+       ]
+    },
+    {
+        "ID": 128,
+        "name": "Tauros",
+        "number": 128,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images":[
+          "tauros.jpg"
+       ]
+    },
+    {
+        "ID": 129,
+        "name": "Magikarp",
+        "number": 129,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "magikarp.jpg"
+       ]
+    },
+    {
+        "ID": 130,
+        "name": "Gyrados",
+        "number": 130,
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "weakness": [
+            "Electric",
+            "Rock"
+        ],
+        "images":[
+          "gyrados.jpg"
+       ]
+    },
+    {
+        "ID": 131,
+        "name": "Lapras",
+        "number": 131,
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric",
+            "Fighting",
+            "Rock"
+        ],
+        "images":[
+          "lapras.jpg"
+       ]
+    },
+    {
+        "ID": 132,
+        "name": "Ditto",
+        "number": 132,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images":[
+          "ditto.jpg"
+       ]
+    },
+    {
+        "ID": 133,
+        "name": "Eevee",
+        "number": 133,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images":[
+          "eevee.jpg"
+       ]
+    },
+    {
+        "ID": 134,
+        "name": "Vaporeon",
+        "number": 134,
+        "type": [
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric"
+        ],
+        "images":[
+          "vaporeon.jpg"
+       ]
+    },
+    {
+        "ID": 135,
+        "name": "Jolteon",
+        "number": 135,
+        "type": [
+            "Electric"
+        ],
+        "weakness": [
+            "Ground"
+        ],
+        "images":[
+          "jolteon.jpg"
+       ]
+    },
+    {
+        "ID": 136,
+        "name": "Flareon",
+        "number": 136,
+        "type": [
+            "Fire"
+        ],
+        "weakness": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "images":[
+          "flareon.jpg"
+       ]
+    },
+    {
+        "ID": 137,
+        "name": "Porygon",
+        "number": 137,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images":[
+          "porygon.jpg"
+       ]
+    },
+    {
+        "ID": 138,
+        "name": "Omanyte",
+        "number": 138,
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric",
+            "Fighting",
+            "Ground"
+        ],
+        "images":[
+          "omanyte.jpg"
+       ]
+    },
+    {
+        "ID": 139,
+        "name": "Omastar",
+        "number": 139,
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric",
+            "Fighting",
+            "Ground"
+        ],
+        "images":[
+          "omastar.jpg"
+       ]
+    },
+    {
+        "ID": 140,
+        "name": "Kabuto",
+        "number": 140,
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric",
+            "Fighting",
+            "Ground"
+        ],
+        "images":[
+          "kabuto.jpg"
+       ]
+    },
+    {
+        "ID": 141,
+        "name": "Kabutops",
+        "number": 141,
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "weakness": [
+            "Grass",
+            "Electric",
+            "Fighting",
+            "Ground"
+        ],
+        "images":[
+          "kabutops.jpg"
+       ]
+    },
+    {
+        "ID": 142,
+        "name": "Aerodactyl",
+        "number": 142,
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "weakness": [
+            "Steel",
+            "Water",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "aerodactyl.jpg"
+       ]
+    },
+    {
+        "ID": 143,
+        "name": "Snorlax",
+        "number": 143,
+        "type": [
+            "Normal"
+        ],
+        "weakness": [
+            "Fighting"
+        ],
+        "images":[
+          "snorlax.jpg"
+       ]
+    },
+    {
+        "ID": 144,
+        "name": "Articuno",
+        "number": 144,
+        "type": [
+            "Ice",
+            "Flying"
+        ],
+        "weakness": [
+            "Steel",
+            "Electric",
+            "Fire",
+            "Rock"
+        ],
+        "images":[
+          "articuno.jpg"
+       ]
+    },
+    {
+        "ID": 145,
+        "name": "Zapados",
+        "number": 145,
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "weakness": [
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "zapados.jpg"
+       ]
+    },
+    {
+        "ID": 146,
+        "name": "Moltres",
+        "number": 146,
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "weakness": [
+            "Water",
+            "Electric",
+            "Rock"
+        ],
+        "images":[
+          "moltres.jpg"
+       ]
+    },
+    {
+        "ID": 147,
+        "name": "Dratini",
+        "number": 147,
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "Fairy",
+            "Ice",
+            "Dragon"
+        ],
+        "images":[
+          "dratini.jpg"
+       ]
+    },
+    {
+        "ID": 148,
+        "name": "Dragonair",
+        "number": 148,
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "Fairy",
+            "Ice",
+            "Dragon"
+        ],
+        "images":[
+          "dragonair.jpg"
+       ]
+    },
+    {
+        "ID": 149,
+        "name": "Dragonite",
+        "number": 149,
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "weakness": [
+            "Fairy",
+            "Dargon",
+            "Ice",
+            "Rock"
+        ],
+        "images":[
+          "dragonite.jpg"
+       ]
+    },
+    {
+        "ID": 150,
+        "name": "Mewtwo",
+        "number": 150,
+        "type": [
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Bug"
+        ],
+        "images":[
+          "mewtwo.jpg"
+       ]
+    },
+    {
+        "ID": 151,
+        "name": "Mew",
+        "number": 151,
+        "type": [
+            "Psychic"
+        ],
+        "weakness": [
+            "Ghost",
+            "Dark",
+            "Bug"
+        ],
+        "images":[
+          "mew.jpg"
+       ]
+    }
+]
