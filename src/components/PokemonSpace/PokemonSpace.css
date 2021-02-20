@@ -1,0 +1,49 @@
+.PokemonSpace {
+    position: relative;
+  }
+  
+  .PokemonSpace img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .PokemonSpace > img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .PokemonSpace .PokemonSpace-title {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  
+  .PokemonSpace h1 {
+    margin: 0;
+    font-weight: lighter;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 0.5rem;
+    text-align: left;
+  }
+
+  .PokemonSpace p {
+    margin: 0;
+    font-weight: lighter;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 0.5rem;
+    text-align: left;
+  }
+  
+  .PokemonSpace .PokemonSpace-info {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    text-align: right;
+  } 
+  
+  .PokemonSpace .PokemonSpace-info div {
+    display: inline-block;
+    padding: 0.25em 0.5em;
+    background-color: rgba(255, 255, 255, 0.9);
+  }

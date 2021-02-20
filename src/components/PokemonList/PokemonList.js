@@ -1,14 +1,15 @@
 import React from 'react';
-import Pokemon from '../Pokemon/Pokemon';
+import PokemonSpace from '../PokemonSpace/PokemonSpace';
+import './PokemonList.css';
 import data from '../../pokemon.json';
 
 function PokemonList() {
     const pokemons = data.map(({ ID, name, number, type, weakness }) => {
         return (
-            <Pokemon
+            <PokemonSpace
                 // key = {ID}
                 name = {name}
-                // number = {number}
+                number = {number}
                 // // image = {image[0]}
                 // type = {type}
                 // weakness = {weakness}
@@ -18,9 +19,7 @@ function PokemonList() {
 
     return (
         <div className = "PokemonList">
-            <div className="Pokemon">
-                { pokemons }
-            </div>
+            { pokemons }
         </div>
     )
 }

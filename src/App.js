@@ -7,12 +7,8 @@ import PokemonList from './components/PokemonList/PokemonList';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
         <Title />
-      </header>
-      <div className="PokemonList">
         <PokemonList />
-      </div>
     </div>
   );
 }
