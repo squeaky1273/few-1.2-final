@@ -1,14 +1,14 @@
-.PokemonSpace {
+  .PokemonSpace {
     position: relative;
   }
   
   .PokemonSpace img {
-    width: 100%;
+    width: 50%;
     height: auto;
   }
   
   .PokemonSpace > img {
-    width: 100%;
+    width: 50%;
     height: auto;
   }
   
@@ -19,31 +19,31 @@
     top: 0;
   }
   
-  .PokemonSpace h1 {
+  /* .PokemonSpace h1 {
     margin: 0;
     font-weight: lighter;
     background-color: rgba(255, 255, 255, 0.9);
     padding: 0.5rem;
     text-align: left;
-  }
+  } */
 
   .PokemonSpace p {
-    margin: 0;
-    font-weight: lighter;
-    background-color: rgba(255, 255, 255, 0.9);
-    padding: 0.5rem;
-    text-align: left;
+    font-family: "Flexo-Bold",arial,sans-serif;
+    color: #919191;
+    font-size: 80%;
+    padding-top: 2px;
   }
   
-  .PokemonSpace .PokemonSpace-info {
+  /* .PokemonSpace .PokemonSpace-info {
     position: absolute;
     right: 0;
     bottom: 0;
     text-align: right;
-  } 
+  }  */
   
-  .PokemonSpace .PokemonSpace-info div {
+  /* .PokemonSpace .PokemonSpace-info div {
     display: inline-block;
     padding: 0.25em 0.5em;
     background-color: rgba(255, 255, 255, 0.9);
-  }
+  } */
+ 

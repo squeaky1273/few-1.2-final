@@ -4,14 +4,20 @@ import { Link } from 'react-router-dom'
 
 function PokemonSpace(props) {
   // Get the
-  const {number, name, id} = props
+  const {number, name, id, image} = props
   return (
     <div className="PokemonSpace">
-      <p># {number}</p>
+      <Link to={`/details/${id}`}>
+        {/* Images credited to official Pokemon website */}
+        <img src={`${process.env.PUBLIC_URL}images/${image}`} width="316" height="316" alt="Hello" />
+      </Link>
+      <Link to={`/details/${id}`}>
+        <p># {number}</p>
+      </Link>
       <Link 
           className="POPOSSpace-title" // add a class name!
           to={`/details/${id}`}>
-          <h1>{name}</h1>
+          <h3>{name}</h3>
       </Link>
     </div>
   )

@@ -4,14 +4,15 @@ import './PokemonList.css';
 import data from '../../pokemon.js';
 
 function PokemonList() {
-    const pokemons = data.map(({ ID, name, number, type, weakness }) => {
+    const pokemons = data.map(({ ID, name, number, image, type, weakness }) => {
         return (
             <PokemonSpace
                 id = {ID}
                 key = {ID}
                 name = {name}
                 number = {number}
-                // // image = {image[0]}
+                // Images credited to official Pokemon website
+                image = {image[0]}
                 // type = {type}
                 // weakness = {weakness}
             />

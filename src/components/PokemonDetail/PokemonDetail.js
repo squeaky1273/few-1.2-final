@@ -1,15 +1,20 @@
 import React from 'react';
+import './PokemonDetail.css';
 import data from '../../pokemon.js';
 
 function Pokemon(props) {
     const { id } = props.match.params // Location index
     const { name, number, image, type, weakness } = data[id]
     return (
-        <div className="pokemon">
-            <p>{ name }  #{ number }</p>
-            <p>{ image }</p>
-            {/* <img src={`${process.env.PUBLIC_URL}images/${image[0]}`} /> */}
+        <div className="PokemonDetail">
+            <h1>{ name }  #{ number }</h1>
+            <div className="PokemonDetail-image">
+                {/* Images credited to official Pokemon website */}
+                <img src={`${process.env.PUBLIC_URL}images/${image}`} width="320" height="320"/>
+            </div>
+            <h2>Type:</h2>
             <p>{ type }</p>
+            <h2>Weaknesses:</h2>
             <p>{ weakness }</p>
         </div>
     )
