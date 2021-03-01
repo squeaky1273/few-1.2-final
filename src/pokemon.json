@@ -5,13 +5,13 @@
         "number": 1,
         "type": [
             "Grass",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Ice",
-            "Psychic",
-            "Flying"
+            ", Ice", 
+            ", Psychic",
+            ", Flying"
         ],
         "image":[
           "001.png"
@@ -23,13 +23,13 @@
         "number": 2,
         "type": [
             "Grass", 
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire", 
-            "Ice", 
-            "Psychic", 
-            "Flying"
+            ", Ice", 
+            ", Psychic", 
+            ", Flying"
         ],
         "image":[
           "002.png"
@@ -41,13 +41,13 @@
         "number": 3,
         "type": [
             "Grass",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Ice",
-            "Psychic",
-            "Flying"
+            ", Ice",
+            ", Psychic",
+            ", Flying"
         ],
         "image":[
           "003.png"
@@ -62,8 +62,8 @@
         ],
         "weakness": [
             "Water", 
-            "Ground",
-            "Rock"
+            ", Ground",
+            ", Rock"
         ],
         "image":[
           "004.png"
@@ -78,8 +78,8 @@
         ],
         "weakness": [
             "Water",
-            "Ground",
-            "Rock"
+            ", Ground",
+            ", Rock"
         ],
         "image":[
           "005.png"
@@ -91,12 +91,12 @@
         "number": 6,
         "type": [
             "Fire",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Water",
-            "Electric",
-            "Rock"
+            ", Electric",
+            ", Rock"
         ],
         "image":[
           "006.png"
@@ -111,7 +111,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "007.png"
@@ -126,7 +126,7 @@
         ],
         "weakness": [
             "Grass", 
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "008.png"
@@ -141,7 +141,7 @@
         ],
         "weakness": [
             "Grass", 
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "009.png"
@@ -156,8 +156,8 @@
         ],
         "weakness": [
             "Fire", 
-            "Flying", 
-            "Rock"
+            ", Flying", 
+            ", Rock"
         ],
         "image":[
           "010.png"
@@ -172,8 +172,8 @@
         ],
         "weakness": [
             "Fire",
-            "Flying",
-            "Rock"
+            ", Flying",
+            ", Rock"
         ],
         "image":[
           "011.png"
@@ -185,14 +185,14 @@
         "number": 12,
         "type": [
             "Bug",
-            "flying"
+            ", Flying"
         ],
         "weakness": [
             "Fire",
-            "Flying",
-            "Ice",
-            "Electric",
-            "Rock"
+            ", Flying",
+            ", Ice",
+            ", Electric",
+            ", Rock"
         ],
         "image":[
           "012.png"
@@ -204,13 +204,13 @@
         "number": 13,
         "type": [
             "Bug", 
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Flying",
-            "Psychic",
-            "Rock"
+            ", Flying",
+            ", Psychic",
+            ", Rock"
         ],
         "image": [
           "013.png"
@@ -222,13 +222,13 @@
         "number": 14,
         "type": [
             "Bug", 
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Flying",
-            "Psychic",
-            "Rock"
+            ", Flying",
+            ", Psychic",
+            ", Rock"
         ],
         "image": [
           "014.png"
@@ -240,13 +240,13 @@
         "number": 15,
         "type": [
             "Bug",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Psychic",
-            "Flying",
-            "Rock"
+            ", Psychic",
+            ", Flying",
+            ", Rock"
         ],
         "image":[
           "015.png"
@@ -258,12 +258,12 @@
         "number": 16,
         "type": [
             "Normal",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Electric",
-            "Ice",
-            "Rock"
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "016.png"
@@ -275,12 +275,12 @@
         "number": 17,
         "type": [
             "Normal",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Electric",
-            "Ice",
-            "Rock"
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "017.png"
@@ -292,12 +292,12 @@
         "number": 18,
         "type": [
             "Normal",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Electric",
-            "Ice",
-            "Rock"
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "018.png"
@@ -337,12 +337,12 @@
         "number": 21,
         "type": [
             "Normal",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Electric",
-            "Ice",
-            "Rock"
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "021.png"
@@ -354,12 +354,12 @@
         "number": 22,
         "type": [
             "Normal",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Electric",
-            "Ice",
-            "Rock"
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "022.png"
@@ -374,7 +374,7 @@
         ],
         "weakness": [
             "Psychic",
-            "Ground"
+            ", Ground"
         ],
         "image":[
           "023.png"
@@ -389,7 +389,7 @@
         ],
         "weakness": [
             "Psychic",
-            "Ground"
+            ", Ground"
         ],
         "image":[
           "024.png"
@@ -432,8 +432,8 @@
         ],
         "weakness": [
             "Water",
-            "Grass",
-            "Ice"
+            ", Grass",
+            ", Ice"
         ],
         "image":[
           "027.png"
@@ -448,8 +448,8 @@
         ],
         "weakness": [
             "Water",
-            "Grass",
-            "Ice"
+            ", Grass",
+            ", Ice"
         ],
         "image":[
           "028.png"
@@ -464,7 +464,7 @@
         ],
         "weakness": [
             "Psychic",
-            "Ground"
+            ", Ground"
         ],
         "image":[
           "029.png"
@@ -479,7 +479,7 @@
         ],
         "weakness": [
             "Psychic",
-            "Ground"
+            ", Ground"
         ],
         "image":[
           "030.png"
@@ -491,13 +491,13 @@
         "number": 31,
         "type": [
             "Poison",
-            "Ground"
+            ", Ground"
         ],
         "weakness": [
             "Water",
-            "Psychic",
-            "Ice",
-            "Ground"
+            ", Psychic",
+            ", Ice",
+            ", Ground"
         ],
         "image":[
           "031.png"
@@ -512,7 +512,7 @@
         ],
         "weakness": [
             "Psychic",
-            "Ground"
+            ", Ground"
         ],
         "image":[
           "032.png"
@@ -527,7 +527,7 @@
         ],
         "weakness": [
             "Psychic",
-            "Ground"
+            ", Ground"
         ],
         "image":[
           "033.png"
@@ -539,13 +539,13 @@
         "number": 34,
         "type": [
             "Poison",
-            "Ground"
+            ", Ground"
         ],
         "weakness": [
             "Water",
-            "Psychic",
-            "Ice",
-            "Ground"
+            ", Psychic",
+            ", Ice",
+            ", Ground"
         ],
         "image":[
           "034.png"
@@ -560,7 +560,7 @@
         ],
         "weakness": [
             "Steel",
-            "Poison"
+            ", Poison"
         ],
         "image":[
           "035.png"
@@ -575,7 +575,7 @@
         ],
         "weakness": [
             "Steel",
-            "Poison"
+            ", Poison"
         ],
         "image":[
           "036.png"
@@ -590,8 +590,8 @@
         ],
         "weakness": [
             "Water",
-            "Ground",
-            "Rock"
+            ", Ground",
+            ", Rock"
         ],
         "image":[
           "037.png"
@@ -606,8 +606,8 @@
         ],
         "weakness": [
             "Water",
-            "Ground",
-            "Rock"
+            ", Ground",
+            ", Rock"
         ],
         "image":[
           "038.png"
@@ -619,11 +619,11 @@
         "number": 39,
         "type": [
             "Normal",
-            "Fairy"
+            ", Fairy"
         ],
         "weakness": [
             "Steel",
-            "Poison"
+            ", Poison"
         ],
         "image":[
           "039.png"
@@ -635,11 +635,11 @@
         "number": 40,
         "type": [
             "Normal",
-            "Fairy"
+            ", Fairy"
         ],
         "weakness": [
             "Steel",
-            "Poison"
+            ", Poison"
         ],
         "image":[
           "040.png"
@@ -651,13 +651,13 @@
         "number": 41,
         "type": [
             "Poison",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Psychic",
-            "Electric",
-            "Ice",
-            "Rock"
+            ", Electric",
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "041.png"
@@ -669,13 +669,13 @@
         "number": 42,
         "type": [
             "Poison",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Psychic",
-            "Electric",
-            "Ice",
-            "Rock"
+            ", Electric",
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "042.png"
@@ -687,14 +687,14 @@
         "number": 43,
         "type": [
             "Grass",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Psychic",
-            "Electric",
-            "Flying",
-            "Ice"
+            ", Psychic",
+            ", Electric",
+            ", Flying",
+            ", Ice"
         ],
         "image":[
           "043.png"
@@ -706,14 +706,14 @@
         "number": 44,
         "type": [
             "Grass",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Psychic",
-            "Electric",
-            "Flying",
-            "Ice"
+            ", Psychic",
+            ", Electric",
+            ", Flying",
+            ", Ice"
         ],
         "image":[
           "044.png"
@@ -725,14 +725,14 @@
         "number": 45,
         "type": [
             "Grass",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Psychic",
-            "Electric",
-            "Flying",
-            "Ice"
+            ", Psychic",
+            ", Electric",
+            ", Flying",
+            ", Ice"
         ],
         "image":[
           "045.png"
@@ -744,15 +744,15 @@
         "number": 46,
         "type": [
             "Bug",
-            "Grass"
+            ", Grass"
         ],
         "weakness": [
             "Fire",
-            "Flying",
-            "Ice",
-            "Poison",
-            "Rock",
-            "Bug"
+            ", Flying",
+            ", Ice",
+            ", Poison",
+            ", Rock",
+            ", Bug"
         ],
         "image":[
           "046.png"
@@ -764,15 +764,15 @@
         "number": 47,
         "type": [
             "Bug",
-            "Grass"
+            ", Grass"
         ],
         "weakness": [
             "Fire",
-            "Flying",
-            "Ice",
-            "Poison",
-            "Rock",
-            "Bug"
+            ", Flying",
+            ", Ice",
+            ", Poison",
+            ", Rock",
+            ", Bug"
         ],
         "image":[
           "047.png"
@@ -784,13 +784,13 @@
         "number": 48,
         "type": [
             "Bug",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Psychic",
-            "Flying",
-            "Rock"
+            ", Psychic",
+            ", Flying",
+            ", Rock"
         ],
         "image":[
           "048.png"
@@ -802,13 +802,13 @@
         "number": 49,
         "type": [
             "Bug",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Psychic",
-            "Flying",
-            "Rock"
+            ", Psychic",
+            ", Flying",
+            ", Rock"
         ],
         "image":[
           "049.png"
@@ -823,8 +823,8 @@
         ],
         "weakness": [
             "Water",
-            "Grass",
-            "Ice"
+            ", Grass",
+            ", Ice"
         ],
         "image":[
           "050.png"
@@ -839,8 +839,8 @@
         ],
         "weakness": [
             "Water",
-            "Grass",
-            "Ice"
+            ", Grass",
+            ", Ice"
         ],
         "image":[
           "051.png"
@@ -883,7 +883,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image": [
           "054.png"
@@ -898,7 +898,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "055.png"
@@ -913,8 +913,8 @@
         ],
         "weakness": [
             "Psychic",
-            "Flying",
-            "Fairy"
+            ", Flying",
+            ", Fairy"
         ],
         "image":[
           "056.png"
@@ -929,8 +929,8 @@
         ],
         "weakness": [
             "Psychic",
-            "Flying",
-            "Fairy"
+            ", Flying",
+            ", Fairy"
         ],
         "image":[
           "057.png"
@@ -945,8 +945,8 @@
         ],
         "weakness": [
             "Water",
-            "Ground",
-            "Rock"
+            ", Ground",
+            ", Rock"
         ],
         "image":[
           "058.png"
@@ -961,8 +961,8 @@
         ],
         "weakness": [
             "Water",
-            "Ground",
-            "Rock"
+            ", Ground",
+            ", Rock"
         ],
         "image":[
           "059.png"
@@ -977,7 +977,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "060.png"
@@ -992,7 +992,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "061.png"
@@ -1004,14 +1004,14 @@
         "number": 62,
         "type": [
             "Water",
-            "Fighting"
+            ", Fighting"
         ],
         "weakness": [
             "Fairy",
-            "Grass",
-            "Flying",
-            "Psychic",
-            "Electric"
+            ", Grass",
+            ", Flying",
+            ", Psychic",
+            ", Electric"
         ],
         "image":[
           "062.png"
@@ -1026,8 +1026,8 @@
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Bug"
+            ", Dark",
+            ", Bug"
         ],
         "image":[
           "063.png"
@@ -1042,8 +1042,8 @@
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Bug"
+            ", Dark",
+            ", Bug"
         ],
         "image":[
           "064.png"
@@ -1058,8 +1058,8 @@
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Bug"
+            ", Dark",
+            ", Bug"
         ],
         "image":[
           "065.png"
@@ -1074,8 +1074,8 @@
         ],
         "weakness": [
             "Psychic",
-            "Flying",
-            "Fairy"
+            ", Flying",
+            ", Fairy"
         ],
         "image":[
           "066.png"
@@ -1090,8 +1090,8 @@
         ],
         "weakness": [
             "Psychic",
-            "Flying",
-            "Fairy"
+            ", Flying",
+            ", Fairy"
         ],
         "image":[
           "067.png"
@@ -1106,8 +1106,8 @@
         ],
         "weakness": [
             "Psychic",
-            "Flying",
-            "Fairy"
+            ", Flying",
+            ", Fairy"
         ],
         "image":[
           "068.png"
@@ -1119,13 +1119,13 @@
         "number": 69,
         "type": [
             "Grass",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Psychic",
-            "Flying",
-            "Ice"
+            ", Psychic",
+            ", Flying",
+            ", Ice"
         ],
         "image":[
           "069.png"
@@ -1137,13 +1137,13 @@
         "number": 70,
         "type": [
             "Grass",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Psychic",
-            "Flying",
-            "Ice"
+            ", Psychic",
+            ", Flying",
+            ", Ice"
         ],
         "image":[
           "070.png"
@@ -1155,13 +1155,13 @@
         "number": 71,
         "type": [
             "Grass",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Fire",
-            "Psychic",
-            "Flying",
-            "Ice"
+            ", Psychic",
+            ", Flying",
+            ", Ice"
         ],
         "image":[
           "071.png"
@@ -1173,12 +1173,12 @@
         "number": 72,
         "type": [
             "Water",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Psychic",
-            "Electric",
-            "Ground"
+            ", Electric",
+            ", Ground"
         ],
         "image":[
           "072.png"
@@ -1190,12 +1190,12 @@
         "number": 73,
         "type": [
             "Water",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Psychic",
-            "Electric",
-            "Ground"
+            ", Electric",
+            ", Ground"
         ],
         "image":[
           "073.png"
@@ -1207,15 +1207,15 @@
         "number": 74,
         "type": [
             "Rock",
-            "Ground"
+            ", Ground"
         ],
         "weakness": [
             "Steel",
-            "Fighting",
-            "Water",
-            "Ice",
-            "Grass",
-            "Ground"
+            ", Fighting",
+            ", Water",
+            ", Ice",
+            ", Grass",
+            ", Ground"
         ],
         "image":[
           "074.png"
@@ -1227,15 +1227,15 @@
         "number": 75,
         "type": [
             "Rock",
-            "Ground"
+            ", Ground"
         ],
         "weakness": [
             "Steel",
-            "Fighting",
-            "Water",
-            "Ice",
-            "Grass",
-            "Ground"
+            ", Fighting",
+            ", Water",
+            ", Ice",
+            ", Grass",
+            ", Ground"
         ],
         "image":[
           "075.png"
@@ -1247,15 +1247,15 @@
         "number": 76,
         "type": [
             "Rock",
-            "Ground"
+            ", Ground"
         ],
         "weakness": [
             "Steel",
-            "Fighting",
-            "Water",
-            "Ice",
-            "Grass",
-            "Ground"
+            ", Fighting",
+            ", Water",
+            ", Ice",
+            ", Grass",
+            ", Ground"
         ],
         "image":[
           "076.png"
@@ -1270,8 +1270,8 @@
         ],
         "weakness": [
             "Water",
-            "Ground",
-            "Rock"
+            ", Ground",
+            ", Rock"
         ],
         "image":[
           "077.png"
@@ -1286,8 +1286,8 @@
         ],
         "weakness": [
             "Water",
-            "Ground",
-            "Rock"
+            ", Ground",
+            ", Rock"
         ],
         "image":[
           "078.png"
@@ -1299,14 +1299,14 @@
         "number": 79,
         "type": [
             "Water",
-            "Psychic"
+            ", Psychic"
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Grass",
-            "Electric",
-            "Bug"
+            ", Dark",
+            ", Grass",
+            ", Electric",
+            ", Bug"
         ],
         "image":[
           "079.png"
@@ -1318,14 +1318,14 @@
         "number": 80,
         "type": [
             "Water",
-            "Psychic"
+            ", Psychic"
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Grass",
-            "Electric",
-            "Bug"
+            ", Dark",
+            ", Grass",
+            ", Electric",
+            ", Bug"
         ],
         "image":[
           "080.png"
@@ -1337,12 +1337,12 @@
         "number": 81,
         "type": [
             "Electric",
-            "Steel"
+            ", Steel"
         ],
         "weakness": [
             "Fire",
-            "Fighting",
-            "Ground"
+            ", Fighting",
+            ", Ground"
         ],
         "image":[
           "081.png"
@@ -1354,12 +1354,12 @@
         "number": 82,
         "type": [
             "Electric",
-            "Steel"
+            ", Steel"
         ],
         "weakness": [
             "Fire",
-            "Fighting",
-            "Ground"
+            ", Fighting",
+            ", Ground"
         ],
         "image":[
           "082.png"
@@ -1371,12 +1371,12 @@
         "number": 83,
         "type": [
             "Normal",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Electric",
-            "Ice",
-            "Rock"
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "083.png"
@@ -1388,12 +1388,12 @@
         "number": 84,
         "type": [
             "Normal",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Electric",
-            "Ice",
-            "Rock"
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "084.png"
@@ -1405,12 +1405,12 @@
         "number": 85,
         "type": [
             "Normal",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Electric",
-            "Ice",
-            "Rock"
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "085.png"
@@ -1425,7 +1425,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "086.png"
@@ -1437,13 +1437,13 @@
         "number": 87,
         "type": [
             "Water",
-            "Ice"
+            ", Ice"
         ],
         "weakness": [
             "Grass",
-            "Electric",
-            "Fighting",
-            "Rock"
+            ", Electric",
+            ", Fighting",
+            ", Rock"
         ],
         "image":[
           "087.png"
@@ -1458,7 +1458,7 @@
         ],
         "weakness": [
             "Psychic",
-            "Ground"
+            ", Ground"
         ],
         "image":[
           "088.png"
@@ -1473,7 +1473,7 @@
         ],
         "weakness": [
             "Psychic",
-            "Ground"
+            ", Ground"
         ],
         "image":[
           "089.png"
@@ -1488,7 +1488,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "090.png"
@@ -1500,13 +1500,13 @@
         "number": 91,
         "type": [
             "Water",
-            "Ice"
+            ", Ice"
         ],
         "weakness": [
             "Grass",
-            "Electric",
-            "Fighting",
-            "Rock"
+            ", Electric",
+            ", Fighting",
+            ", Rock"
         ],
         "image":[
           "091.png"
@@ -1518,13 +1518,13 @@
         "number": 92,
         "type": [
             "Ghost",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Psychic",
-            "Ground"
+            ", Dark",
+            ", Psychic",
+            ", Ground"
         ],
         "image":[
           "092.png"
@@ -1536,13 +1536,13 @@
         "number": 93,
         "type": [
             "Ghost",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Psychic",
-            "Ground"
+            ", Dark",
+            ", Psychic",
+            ", Ground"
         ],
         "image":[
           "093.png"
@@ -1554,13 +1554,13 @@
         "number": 94,
         "type": [
             "Ghost",
-            "Poison"
+            ", Poison"
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Psychic",
-            "Ground"
+            ", Dark",
+            ", Psychic",
+            ", Ground"
         ],
         "image":[
           "094.png"
@@ -1572,15 +1572,15 @@
         "number": 95,
         "type": [
             "Rock",
-            "Ground"
+            ", Ground"
         ],
         "weakness": [
             "Steel",
-            "Fighting",
-            "Water",
-            "Ice",
-            "Grass",
-            "Ground"
+            ", Fighting",
+            ", Water",
+            ", Ice",
+            ", Grass",
+            ", Ground"
         ],
         "image":[
           "095.png"
@@ -1595,8 +1595,8 @@
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Bug"
+            ", Dark",
+            ", Bug"
         ],
         "image":[
           "096.png"
@@ -1611,8 +1611,8 @@
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Bug"
+            ", Dark",
+            ", Bug"
         ],
         "image":[
           "097.png"
@@ -1627,7 +1627,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "098.png"
@@ -1642,7 +1642,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "099.png"
@@ -1682,16 +1682,16 @@
         "number": 102,
         "type": [
             "Grass", 
-            "Psychic"
+            ", Psychic"
         ],
         "weakness": [
             "Ghost",
-            "Fire",
-            "Flying",
-            "Ice",
-            "Dark",
-            "Poison",
-            "Bug"
+            ", Fire",
+            ", Flying",
+            ", Ice",
+            ", Dark",
+            ", Poison",
+            ", Bug"
         ],
         "image":[
           "102.png"
@@ -1703,16 +1703,16 @@
         "number": 103,
         "type": [
             "Grass",
-            "Psychic"
+            ", Psychic"
         ],
         "weakness": [
             "Ghost",
-            "Fire",
-            "Flying",
-            "Ice",
-            "Dark",
-            "Poison",
-            "Bug"
+            ", Fire",
+            ", Flying",
+            ", Ice",
+            ", Dark",
+            ", Poison",
+            ", Bug"
         ],
         "image":[
           "103.png"
@@ -1727,8 +1727,8 @@
         ],
         "weakness": [
             "Water",
-            "Grass",
-            "Ice"
+            ", Grass",
+            ", Ice"
         ],
         "image":[
           "104.png"
@@ -1743,8 +1743,8 @@
         ],
         "weakness": [
             "Water",
-            "Grass",
-            "Ice"
+            ", Grass",
+            ", Ice"
         ],
         "image":[
           "105.png"
@@ -1759,8 +1759,8 @@
         ],
         "weakness": [
             "Psychic",
-            "Flying",
-            "Fairy"
+            ", Flying",
+            ", Fairy"
         ],
         "image":[
           "106.png"
@@ -1775,8 +1775,8 @@
         ],
         "weakness": [
             "Psychic",
-            "Flying",
-            "Fairy"
+            ", Flying",
+            ", Fairy"
         ],
         "image":[
           "107.png"
@@ -1820,7 +1820,7 @@
         ],
         "weakness": [
             "Psychic",
-            "Ground"
+            ", Ground"
         ],
         "image":[
           "110.png"
@@ -1832,15 +1832,15 @@
         "number": 111,
         "type": [
             "Ground",
-            "Rock"
+            ", Rock"
         ],
         "weakness": [
             "Steel",
-            "Ice",
-            "Water",
-            "Fighting",
-            "Grass",
-            "Ground"
+            ", Ice",
+            ", Water",
+            ", Fighting",
+            ", Grass",
+            ", Ground"
         ],
         "image":[
           "111.png"
@@ -1852,15 +1852,15 @@
         "number": 112,
         "type": [
             "Ground",
-            "Rock"
+            ", Rock"
         ],
         "weakness": [
             "Steel",
-            "Ice",
-            "Water",
-            "Fighting",
-            "Grass",
-            "Ground"
+            ", Ice",
+            ", Water",
+            ", Fighting",
+            ", Grass",
+            ", Ground"
         ],
         "image":[
           "112.png"
@@ -1889,10 +1889,10 @@
         ],
         "weakness": [
             "Fire",
-            "Flying",
-            "Ice",
-            "Poison",
-            "Bug"
+            ", Flying",
+            ", Ice",
+            ", Poison",
+            ", Bug"
         ],
         "image": [
           "114.png"
@@ -1921,7 +1921,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "116.png"
@@ -1936,7 +1936,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "117.png"
@@ -1951,7 +1951,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "118.png"
@@ -1966,7 +1966,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "119.png"
@@ -1981,7 +1981,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "120.png"
@@ -1993,14 +1993,14 @@
         "number": 121,
         "type": [
             "Water",
-            "Psychic"
+            ", Psychic"
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Grass",
-            "Electric",
-            "Bug"
+            ", Dark",
+            ", Grass",
+            ", Electric",
+            ", Bug"
         ],
         "image":[
           "121.png"
@@ -2012,12 +2012,12 @@
         "number": 122,
         "type": [
             "Psychic",
-            "Fairy"
+            ", Fairy"
         ],
         "weakness": [
             "Ghost",
-            "Steel",
-            "Poison"
+            ", Steel",
+            ", Poison"
         ],
         "image":[
           "122.png"
@@ -2029,14 +2029,14 @@
         "number": 123,
         "type": [
             "Bug",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Fire",
-            "Flying",
-            "Electric",
-            "Ice",
-            "Rock"
+            ", Flying",
+            ", Electric",
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "123.png"
@@ -2048,15 +2048,15 @@
         "number": 124,
         "type": [
             "Ice",
-            "Psychic"
+            ", Psychic"
         ],
         "weakness": [
             "Fire",
-            "Ghost",
-            "Bug",
-            "Steel",
-            "Rock",
-            "Dark"
+            ", Ghost",
+            ", Bug",
+            ", Steel",
+            ", Rock",
+            ", Dark"
         ],
         "image":[
           "124.png"
@@ -2085,8 +2085,8 @@
         ],
         "weakness": [
             "Water",
-            "Ground",
-            "Rock"
+            ", Ground",
+            ", Rock"
         ],
         "image":[
           "126.png"
@@ -2101,8 +2101,8 @@
         ],
         "weakness": [
             "Fire",
-            "Flying",
-            "Rock"
+            ", Flying",
+            ", Rock"
         ],
         "image":[
           "127.png"
@@ -2131,7 +2131,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "129.png"
@@ -2143,11 +2143,11 @@
         "number": 130,
         "type": [
             "Water",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Electric",
-            "Rock"
+            ", Rock"
         ],
         "image":[
           "130.png"
@@ -2159,13 +2159,13 @@
         "number": 131,
         "type": [
             "Water",
-            "Ice"
+            ", Ice"
         ],
         "weakness": [
             "Grass",
-            "Electric",
-            "Fighting",
-            "Rock"
+            ", Electric",
+            ", Fighting",
+            ", Rock"
         ],
         "image":[
           "131.png"
@@ -2208,7 +2208,7 @@
         ],
         "weakness": [
             "Grass",
-            "Electric"
+            ", Electric"
         ],
         "image":[
           "134.png"
@@ -2237,8 +2237,8 @@
         ],
         "weakness": [
             "Water",
-            "Ground",
-            "Rock"
+            ", Ground",
+            ", Rock"
         ],
         "image":[
           "136.png"
@@ -2264,13 +2264,13 @@
         "number": 138,
         "type": [
             "Rock",
-            "Water"
+            ", Water"
         ],
         "weakness": [
             "Grass",
-            "Electric",
-            "Fighting",
-            "Ground"
+            ", Electric",
+            ", Fighting",
+            ", Ground"
         ],
         "image":[
           "138.png"
@@ -2282,13 +2282,13 @@
         "number": 139,
         "type": [
             "Rock",
-            "Water"
+            ", Water"
         ],
         "weakness": [
             "Grass",
-            "Electric",
-            "Fighting",
-            "Ground"
+            ", Electric",
+            ", Fighting",
+            ", Ground"
         ],
         "image":[
           "139.png"
@@ -2300,13 +2300,13 @@
         "number": 140,
         "type": [
             "Rock",
-            "Water"
+            ", Water"
         ],
         "weakness": [
             "Grass",
-            "Electric",
-            "Fighting",
-            "Ground"
+            ", Electric",
+            ", Fighting",
+            ", Ground"
         ],
         "image":[
           "140.png"
@@ -2318,13 +2318,13 @@
         "number": 141,
         "type": [
             "Rock",
-            "Water"
+            ", Water"
         ],
         "weakness": [
             "Grass",
-            "Electric",
-            "Fighting",
-            "Ground"
+            ", Electric",
+            ", Fighting",
+            ", Ground"
         ],
         "image":[
           "141.png"
@@ -2336,14 +2336,14 @@
         "number": 142,
         "type": [
             "Rock",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Steel",
-            "Water",
-            "Electric",
-            "Ice",
-            "Rock"
+            ", Water",
+            ", Electric",
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "142.png"
@@ -2369,13 +2369,13 @@
         "number": 144,
         "type": [
             "Ice",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Steel",
-            "Electric",
-            "Fire",
-            "Rock"
+            ", Electric",
+            ", Fire",
+            ", Rock"
         ],
         "image":[
           "144.png"
@@ -2387,11 +2387,11 @@
         "number": 145,
         "type": [
             "Electric",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Ice",
-            "Rock"
+            ", Rock"
         ],
         "image":[
           "145.png"
@@ -2403,12 +2403,12 @@
         "number": 146,
         "type": [
             "Fire",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Water",
-            "Electric",
-            "Rock"
+            ", Electric",
+            ", Rock"
         ],
         "image":[
           "146.png"
@@ -2423,8 +2423,8 @@
         ],
         "weakness": [
             "Fairy",
-            "Ice",
-            "Dragon"
+            ", Ice",
+            ", Dragon"
         ],
         "image":[
           "147.png"
@@ -2439,8 +2439,8 @@
         ],
         "weakness": [
             "Fairy",
-            "Ice",
-            "Dragon"
+            ", Ice",
+            ", Dragon"
         ],
         "image":[
           "148.png"
@@ -2452,13 +2452,13 @@
         "number": 149,
         "type": [
             "Dragon",
-            "Flying"
+            ", Flying"
         ],
         "weakness": [
             "Fairy",
-            "Dargon",
-            "Ice",
-            "Rock"
+            ", Dargon",
+            ", Ice",
+            ", Rock"
         ],
         "image":[
           "149.png"
@@ -2473,8 +2473,8 @@
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Bug"
+            ", Dark",
+            ", Bug"
         ],
         "image":[
           "150.png"
@@ -2489,8 +2489,8 @@
         ],
         "weakness": [
             "Ghost",
-            "Dark",
-            "Bug"
+            ", Dark",
+            ", Bug"
         ],
         "image":[
           "151.png"

@@ -13,15 +13,19 @@
     font-family: "Flexo-Medium",arial,sans-serif;
     color: #212121;
     font: inherit;
+    font-size: 112.5%;
+    line-height: 150%;
 }
+
 
 .PokemonDetails .PokemonDetail-image {
     flex: 2;
+    position: relative;
+    background: #F5F5F5;
 }
 
 .PokemonDetails {
-    width: 320px;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 0;
+    position: relative;
+    border: 5px solid #F5F5F5;
+    background: #F5F5F5;
   }
