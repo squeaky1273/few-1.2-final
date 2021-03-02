@@ -9,7 +9,7 @@ function PokemonSpace(props) {
     <div className="PokemonSpace">
       <Link to={`/details/${id}`}>
         {/* Images credited to official Pokemon website */}
-        <img src={`${process.env.PUBLIC_URL}images/${image}`} />
+        <img src={`${process.env.PUBLIC_URL}/images/${image}`} />
       </Link>
       <Link to={`/details/${id}`}>
         <p># {number}</p>
